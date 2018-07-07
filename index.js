@@ -2,4 +2,4 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-sayHiToGrandma()
+'Hello!'.toUpperCase() // 'HELLO!'
